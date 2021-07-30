@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(173, 218, 230, 0.925);
+}
+
+h1 {
+    color: rgb(37, 80, 221);
+}
+
+h3 {
+    color: rgb(37, 80, 221);
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: rgb(138, 135, 135);
+    border-width: 6px;
+    width: 5%;
+}
+
+tr:nth-child(even) {
+    background-color: #adadad;
+}
+
+.name {
+    font-size: 40px;
+    font-family: Arial;
+}
+
+.function {
+    font-size: 30px;
+    font-family: Helvetica;
+    color: rgb(37, 80, 221)
+}
